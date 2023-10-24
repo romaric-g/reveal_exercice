@@ -1,7 +1,7 @@
 # Reveal Test technique
 
-**Objectif : ** Trouver les lignes identiques dans le dataset (partiel ou exact)
+**Objectif :** Trouver les lignes identiques dans le dataset (partiel ou exact)
 
-**Code : ** traitement.ipynb
+**Code :** traitement.ipynb
 
-**Resultats : ** matching.csv
+**Resultats :** matching.csv
